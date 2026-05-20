@@ -1,0 +1,12 @@
+[2026-05-20 17:04:01] START: Memulai Pipeline Otomasi Recon
+[2026-05-20 17:04:01] PROCESSING: Menjalankan Subfinder untuk google.com
+[2026-05-20 17:09:48] PROCESSING: Menjalankan Subfinder untuk tesla.com
+[2026-05-20 17:09:53] PROCESSING: Menjalankan Subfinder untuk github.com
+[2026-05-20 17:10:08] PROCESSING: Menjalankan Subfinder untuk microsoft.com
+[2026-05-20 17:10:39] PROCESSING: Menjalankan Subfinder untuk indonesia.go.id
+[2026-05-20 17:11:11] PROBING: Memeriksa Live Hosts dengan httpx
+[2026-05-20 18:00:07] DONE: Seluruh Proses Selesai!
+--------------------------------------------------
+Total Subdomain Unik: 43624
+Total Live Hosts    : 1784
+--------------------------------------------------

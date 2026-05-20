@@ -1,0 +1,5 @@
+google.com
+tesla.com
+github.com
+microsoft.com
+indonesia.go.id
